@@ -27,6 +27,7 @@ AppAsset::register($this);
 <?php $this->beginBody() ?>
 
 <div class="wrap">
+    <p>asdasd</p>
     <?php
     NavBar::begin([
         'brandLabel' => Yii::$app->name,
